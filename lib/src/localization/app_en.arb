@@ -1,0 +1,14 @@
+{
+  "appTitle": "Librarymap",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "loadingText": "Loading",
+  "@loadingText": {
+    "description": "What text will be shown while loading information from Overpass"
+  },
+  "mapAttribution": "OpenStreetMap contributors",
+  "@mapAttribution": {
+    "description": "Text used for when providing attribution to map tile  provider"
+  }
+}
